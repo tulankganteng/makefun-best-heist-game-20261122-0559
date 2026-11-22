@@ -1,8 +1,8 @@
 # Midnight Vault — a one-night heist
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node](https://img.shields.io/badge/Node-%3E%3D22.18-brightgreen.svg)](https://nodejs.org/)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--heist--game-blue.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun bounty](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/tulankganteng/makefun-best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/tulankganteng/makefun-best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 A complete top-down stealth heist game for the
 [make.fun best heist game bounty](https://make.fun/bounty/best-heist-game-20261122-0559).
